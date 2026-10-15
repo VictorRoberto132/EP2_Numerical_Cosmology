@@ -1,0 +1,30 @@
+# Course material and local assistant instructions (not part of the solutions)
+CLAUDE.md
+EP2.pdf
+Lecture_notes/
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX auxiliary files (only in report/: results/exercise_5/class_runs/*.log are CLASS run logs)
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.bbl
+report/*.blg
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store

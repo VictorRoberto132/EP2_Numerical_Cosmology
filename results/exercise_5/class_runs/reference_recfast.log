@@ -1,0 +1,27 @@
+Running CLASS version v3.4.0
+Computing background
+ -> non-cold dark matter species with i=1 has m_i = 6.000000e-02 eV (so m_i / omega_i =9.313858e+01 eV)
+ -> ncdm species i=1 sampled with 11 (resp. 11) points for purpose of background (resp. perturbation) integration. In the relativistic limit it gives Delta N_eff = 1.0132
+ -> age = 13.792768 Gyr
+ -> conformal age = 14150.512323 Mpc
+ -> N_eff = 3.044 (summed over all species that are non-relativistic at early times) 
+ -> radiation/matter equality at z = 3404.685521
+    corresponding to conformal time = 112.762398 Mpc
+Computing thermodynamics using RecFastCLASS (based on v1.5)
+ -> with primordial helium mass fraction Y_He = 0.2453
+ -> recombination (maximum of visibility function) at z = 1088.770377
+    corresponding to conformal time = 280.683018 Mpc
+    with comoving sound horizon = 144.516110 Mpc
+    angular diameter distance = 12.727295 Mpc
+    sound horizon angle 100*theta_s = 1.041946
+    Thomson optical depth crosses one at z_* = 1085.148818
+    giving an angle 100*theta_* = 1.044278
+ -> baryon drag stops at z = 1059.965767
+    corresponding to conformal time = 286.340022 Mpc
+    with comoving sound horizon rs = 147.072870 Mpc
+ -> reionization at z = 7.641983
+    corresponding to conformal time = 5121.679932 Mpc
+Computing linear Fourier spectra.
+ -> sigma8=0.811229 for total matter (computed till k = 10.4845 h/Mpc)
+ -> sigma8=0.814646 for baryons+cdm  (computed till k = 10.4845 h/Mpc)
+No non-linear spectra requested. Nonlinear calculations skipped.

@@ -1,0 +1,17 @@
+control,CLASS parameter,reference,default,loose
+ODE tolerance,tol_perturbations_integration,1e-07,1e-05,0.001
+k sampling,k_per_decade_for_pk,30,10.0,5.0
+k sampling,k_per_decade_for_bao,200,70.0,20.0
+time sampling,perturbations_sampling_stepsize,0.02,0.1,0.3
+hierarchy l_max,l_max_g,50,12.0,6.0
+hierarchy l_max,l_max_pol_g,25,10.0,6.0
+hierarchy l_max,l_max_ur,150,17.0,8.0
+hierarchy l_max,l_max_ncdm,50,17.0,8.0
+tight-coupling switch,tight_coupling_trigger_tau_c_over_tau_h,0.005,0.015,0.05
+tight-coupling switch,tight_coupling_trigger_tau_c_over_tau_k,0.008,0.01,0.03
+late-radiation switches,radiation_streaming_trigger_tau_over_tau_k,240,45.0,15.0
+late-radiation switches,radiation_streaming_trigger_tau_c_over_tau,100,5.0,2.0
+late-radiation switches,ur_fluid_trigger_tau_over_tau_k,50,30.0,10.0
+late-radiation switches,ncdm_fluid_approximation,3,2.0,2.0
+late-radiation switches,ncdm_fluid_trigger_tau_over_tau_k,(approx. off),31.0,11.0
+ncdm momentum sampling,tol_ncdm_synchronous,1e-06,0.001,0.01

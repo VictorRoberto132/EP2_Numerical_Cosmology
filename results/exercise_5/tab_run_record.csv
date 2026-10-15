@@ -1,0 +1,22 @@
+quantity,value
+code,"CLASS v3.4.0, commit 64bbab707faf4de4779a9e04edd180fef18d98fa"
+h,0.674
+omega_b,0.0224
+omega_cdm,0.120
+A_s,2.10e-9
+n_s,0.965
+k_pivot [1/Mpc],0.05
+tau_reio,0.054
+neutrinos,"N_ncdm = 1, m_ncdm = 0.06 eV, T_ncdm = 0.71611 (default), N_ur = 2.0308"
+N_eff,3.044
+omega_nu,0.0006442013610256888
+Y_He (BBN),0.2453
+T_cmb [K],2.7255 (default)
+recombination,HyRec 2020 (default)
+reionization,"tanh in z (reio_camb), width 0.5 (default)"
+output redshift,0
+gauge,synchronous
+matter component,"total matter: cdm + b + ncdm (d_m, pk.dat)"
+nonlinear,none
+units of the tables,"kh [h/Mpc], Ph [(Mpc/h)^3]; T_m dimensionless, normalized to R = 1"
+sigma8 (total matter),0.810946
